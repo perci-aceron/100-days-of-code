@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 28, 2023 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:Responsive Web Design - Learn CSS Box Model 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting new project in https://www.freecodecamp.org/. Done with others but undocumented.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
