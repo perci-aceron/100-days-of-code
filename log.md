@@ -8,7 +8,7 @@
 
 **Thoughts:** Starting new project in https://www.freecodecamp.org/. Done with others before this but undocumented. Practice typing, i type like a granny
 
-**Link to work:** [Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting),
+**Link to work:** [CSS Box model Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting),
                   [CSS Flexbox photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
 ### Day 0: February 30, 2016 (Example 2)
