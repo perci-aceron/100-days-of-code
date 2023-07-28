@@ -3,11 +3,13 @@
 ### Day 0: July 28, 2023 
 ##### 
 
-**Today's Progress**: Responsive Web Design - Learn CSS Box Model Step 1
+**Today's Progress**: Responsive Web Design - CSS Box model step 1-45(finished), 
+                                              CSS Flexbox photo gallery steps 1-21(finished) 
 
-**Thoughts:** Starting new project in https://www.freecodecamp.org/. Done with others but undocumented.
+**Thoughts:** Starting new project in https://www.freecodecamp.org/. Done with others before this but undocumented. Practice typing, i type like a granny
 
 **Link to work:** [Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
+                  [CSS Flexbox photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
