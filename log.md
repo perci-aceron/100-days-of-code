@@ -3,7 +3,7 @@
 ### Day 0: July 28, 2023 
 ##### 
 
-**Today's Progress**: Responsive Web Design - Learn CSS Box Model 
+**Today's Progress**: Responsive Web Design - Learn CSS Box Model Step 1
 
 **Thoughts:** Starting new project in https://www.freecodecamp.org/. Done with others but undocumented.
 
