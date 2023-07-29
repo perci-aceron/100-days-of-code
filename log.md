@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 28, 2023 
+### Day 1: July 28, 2023 
 ##### 
 
 **Today's Progress**: Responsive Web Design - CSS Box model step 1-45(finished), 
@@ -11,14 +11,14 @@
 **Link to work:** [CSS Box model Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting),
                   [CSS Flexbox photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: July 29, 2023
+#####
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Responsive Web Design - learn typography by building a nutrition label step 1-51(finished)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: so far so good
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
 
 
 ### Day 1: June 27, Monday
