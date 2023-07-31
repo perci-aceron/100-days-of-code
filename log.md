@@ -34,9 +34,10 @@ format: Day 1 - 7/28/23
 
 ### Day 4: July 31, 2023
 
-**Today's Progress**: Doing my GoIT homework. And some JavaScript in freeCodeCamp
+**Today's Progress**: Doing my GoIT homework. Some JavaScript in freeCodeCamp and finshed learn accessibility by building a quiz steps 50-68
 
 **Thoughts**: Very challenging. My first time doing HTML and CSS without copying
 
-**Link to work**: [GoIT first homework](https://www.figma.com/file/M78UmYRYAZ266LsJ4xgbu4/Web-Studio-(Version-3.0)-(Copy)?node-id=296605%3A13&mode=dev)
+**Link to work**: 1. [GoIT first homework](https://www.figma.com/file/M78UmYRYAZ266LsJ4xgbu4/Web-Studio-(Version-3.0)-(Copy)?node-id=296605%3A13&mode=dev)
+2. [learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
 
