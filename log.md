@@ -1,5 +1,4 @@
-[Twitter link](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!%20hey%20@ka11away&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)
-format: Day 1 - 7/28/23
+[Twitter link](https://twitter.com/intent/tweet?text=I%27m%20publicly%20committing%20to%20the%20100DaysOfCode%20Challenge%20starting%20today!%20Learn%20More%20and%20Join%20me!%20hey%20@ka11away&url=https://100DaysOfCode.com&hashtags=100DaysOfCode)format: Day 1 - 7/28/23
 # 100 Days Of Code - Log
 
 ### Day 1: July 28, 2023 
