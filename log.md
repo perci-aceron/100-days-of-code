@@ -23,10 +23,20 @@ format: Day 1 - 7/28/23
 **Link(s) to work**: [building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
 
 
-### Day 2: July 30, 2023
+### Day 3: July 30, 2023
 
 **Today's Progress**: I've gone through exercise on FreeCodeCamp. learn accessibility by building a quiz steps 1-49
 
 **Thoughts** Getting challenging.
 
 **Link to work**: [learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
+
+
+### Day 4: July 31, 2023
+
+**Today's Progress**: Doing my GoIT homework.
+
+**Thoughts** Very challenging. My first time doing HTML and CSS without copying
+
+**Link to work**: [GoIT first homework](https://www.figma.com/file/M78UmYRYAZ266LsJ4xgbu4/Web-Studio-(Version-3.0)-(Copy)?node-id=296605%3A13&mode=dev)
+
