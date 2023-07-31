@@ -20,7 +20,7 @@ format: Day 1 - 7/28/23
 
 **Thoughts**: so far so good
 
-**Link(s) to work**: [building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
+**Link(s) to work**: [Building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
 
 
 ### Day 3: July 30, 2023
@@ -29,7 +29,7 @@ format: Day 1 - 7/28/23
 
 **Thoughts**: Getting challenging.
 
-**Link to work**: [learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
+**Link to work**: [Learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
 
 
 ### Day 4: July 31, 2023
@@ -40,5 +40,6 @@ format: Day 1 - 7/28/23
 
 **Link to work**: 
 **1.** [GoIT first homework](https://www.figma.com/file/M78UmYRYAZ266LsJ4xgbu4/Web-Studio-(Version-3.0)-(Copy)?node-id=296605%3A13&mode=dev)
-**2.** [learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
+
+**2.** [Learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
 
