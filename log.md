@@ -23,6 +23,7 @@
 
 
 ### Day 3: July 30, 2023
+#####
 
 **Today's Progress**: I've gone through exercise on FreeCodeCamp. learn accessibility by building a quiz steps 1-49
 
@@ -32,6 +33,7 @@
 
 
 ### Day 4: July 31, 2023
+#####
 
 **Today's Progress**: Doing my GoIT homework. Some JavaScript in freeCodeCamp and finshed learn accessibility by building a quiz steps 50-68
 
@@ -44,7 +46,7 @@
 **2.** [Learn accessibility by building a quiz steps](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
 
 
-### Day 1: July 28, 2023 
+### Day 5: August 1, 2023 
 ##### 
 
 **Today's Progress**: Responsive Web Design - CSS pseudo selectors by building a balance sheet steps 1-66(finished)
