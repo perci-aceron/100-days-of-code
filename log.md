@@ -56,3 +56,12 @@
 **Link to work:** [CSS pseudo selectors by building a balance sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
 
 
+### Day 6: August 2, 2023 
+##### 
+
+**Today's Progress**: Responsive Web Design Learn Intermediate CSS by building a picasso painting 1-89(finished)
+
+**Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
+
+**Link to work:** [](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-89)
+
