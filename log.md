@@ -59,9 +59,14 @@
 ### Day 6: August 2, 2023 
 ##### 
 
-**Today's Progress**: Responsive Web Design Learn Intermediate CSS by building a picasso painting 1-89(finished)
+**Today's Progress**: Responsive Web Design Learn Intermediate CSS by building a picasso painting  steps 1-89(finished)
+                      learn responsive web design by building a piano steps 1-33(finished)
 
 **Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
 
-**Link to work:** [](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-89)
+**Link to work:** 
+
+**1.** [building a picasso painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting)
+
+**2.** [learn responsive web design by building a piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano)
 
