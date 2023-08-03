@@ -74,7 +74,7 @@
 ### Day 7: August 3, 2023 
 ##### 
 
-**Today's Progress**: learn-css-variables-by-building-a-city-skyline steps 1-60
+**Today's Progress**: learn-css-variables-by-building-a-city-skyline steps 1-118(finished)
 
 **Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
 
