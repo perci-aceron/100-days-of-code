@@ -70,3 +70,14 @@
 
 **2.** [learn responsive web design by building a piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano)
 
+
+### Day 7: August 3, 2023 
+##### 
+
+**Today's Progress**: learn-css-variables-by-building-a-city-skyline steps 1-60
+
+**Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
+
+**Link to work:** 
+
+**1.** [learn-css-variables-by-building-a-city-skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline)
