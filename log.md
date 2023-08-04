@@ -78,9 +78,7 @@
 
 **Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
 
-**Link to work:** 
-
-**1.** [learn-css-variables-by-building-a-city-skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline)
+**Link to work:** [learn-css-variables-by-building-a-city-skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline)
 
 
 ### Day 8: August 4, 2023 
