@@ -81,3 +81,18 @@
 **Link to work:** 
 
 **1.** [learn-css-variables-by-building-a-city-skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline)
+
+
+### Day 8: August 4, 2023 
+##### 
+
+**Today's Progress**: learn css grid by building a magazine steps 1-80(finished),
+                      learn css animation by building a ferris wheel 1-29(finished)
+
+**Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
+
+**Link to work:** 
+
+**1.** [learn css grid by building a magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-80)
+
+**2.** [learn css animation by building a ferris wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-29)
