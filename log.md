@@ -91,6 +91,20 @@
 
 **Link to work:** 
 
-**1.** [learn css grid by building a magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-80)
+**1.** [learn css grid by building a magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine)
 
-**2.** [learn css animation by building a ferris wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-29)
+**2.** [learn css animation by building a ferris wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel)
+
+
+### Day 9: August 5, 2023 
+##### 
+
+**Today's Progress**: learn css transforms by building a penguin 1-104(finished),
+                      received my Responsive Web Certification 
+
+**Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
+
+**Link to work:** 
+
+**1.** [learn css transforms by building a penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-104)
+
