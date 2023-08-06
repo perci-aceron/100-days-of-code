@@ -100,7 +100,7 @@
 ##### 
 
 **Today's Progress**: learn css transforms by building a penguin 1-104(finished),
-                      received my Responsive Web Certification(https://freecodecamp.org/certification/Percival-Aceron/responsive-web-design)
+                    ** **received my Responsive Web Certification(https://freecodecamp.org/certification/Percival-Aceron/responsive-web-design)
 
 **Thoughts:** Started new project in https://www.freecodecamp.org/. and some JavaScript
 
