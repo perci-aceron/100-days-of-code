@@ -121,3 +121,15 @@
 
 (https://www.figma.com/file/ohUeUrxh2LYlAxxzl984R0/Web-Studio-(Version-3.0)-(Copy)?node-id=296655%3A267&mode=dev)
 
+
+### Day 11: August 7, 2023 
+##### 
+
+**Today's Progress**: still doing my GOit homework and some JavaScript in freeCodeCamp
+
+**Thoughts:** doing web project from scratch without steps by steps is hard and challenging.
+
+**Link to work:** 
+
+(https://www.figma.com/file/ohUeUrxh2LYlAxxzl984R0/Web-Studio-(Version-3.0)-(Copy)?node-id=296655%3A267&mode=dev)
+
