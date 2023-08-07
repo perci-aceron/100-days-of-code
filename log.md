@@ -109,3 +109,15 @@
 
 **1.** [learn css transforms by building a penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin)
 
+
+### Day 10: August 6, 2023 
+##### 
+
+**Today's Progress**: doing my GOit homework,
+
+**Thoughts:** doing web project from scratch without steps by steps is hard and challenging.
+
+**Link to work:** 
+
+(https://www.figma.com/file/ohUeUrxh2LYlAxxzl984R0/Web-Studio-(Version-3.0)-(Copy)?node-id=296655%3A267&mode=dev)
+
