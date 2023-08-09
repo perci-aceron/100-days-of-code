@@ -149,9 +149,9 @@
 ### Day 13: August 9, 2023 
 ##### 
 
-**Today's Progress**: still doing my GOit homework and some JavaScript in freeCodeCamp
+**Today's Progress**: done with my homework 1 and some JavaScript in freeCodeCamp.
 
-**Thoughts:** doing web project from scratch without steps by steps is hard and challenging.
+**Thoughts:** i did the css for my homework 1 though it is not required, learned a lot. my log is not on time, keep forgeting about it. but i'm still committed.
 
 **Link to work:** 
 
