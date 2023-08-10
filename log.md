@@ -19,7 +19,7 @@
 
 **Thoughts**: so far so good
 
-**Link(s) to work**: [Building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
+**Link(s) to work:** [Building a nutrition label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label)
 
 
 ### Day 3: July 30, 2023
@@ -157,4 +157,12 @@
 
 (https://www.figma.com/file/ohUeUrxh2LYlAxxzl984R0/Web-Studio-(Version-3.0)-(Copy)?node-id=296655%3A267&mode=dev)
 
+
+### Day 14: August 10, 2023 
+##### 
+
+**Today's Progress**:  passed my homework 1 for checking. Mentor checked it and needs refinement. finished my hw2 but i wont pass it yet, need to check and refine it more.
+
+**Thoughts:** i did the css for my homework 1 though it is not required, learned a lot. 
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-01/)
 
