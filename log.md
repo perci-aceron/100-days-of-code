@@ -164,5 +164,15 @@
 **Today's Progress**:  passed my homework 1 for checking. Mentor checked it and needs refinement. finished my hw2 but i wont pass it yet, need to check and refine it more.
 
 **Thoughts:** i did the css for my homework 1 though it is not required, learned a lot. 
+
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-01/)
 
+
+### Day 15: August 11, 2023 
+##### 
+
+**Today's Progress**:  homework 1 accepted. doing again my homework 2.
+
+**Thoughts:** semantics
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-01/)
