@@ -178,7 +178,7 @@
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-01/)
 
 
-### Day 15: August 12, 2023 
+### Day 16: August 12, 2023 
 ##### 
 
 **Today's Progress**:  homework 2 on progress
