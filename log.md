@@ -191,7 +191,17 @@
 ### Day 17: August 13, 2023 
 ##### 
 
-**Today's Progress**:  homework 2 passed and for evealuation
+**Today's Progress**:  homework 2 passed and for evaluation
+
+**Thoughts:** my flexbox has mind of its own
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-02/)
+
+
+### Day 18: August 14, 2023 
+##### 
+
+**Today's Progress**:  homework 2 passed and for evaluation, still not checked
 
 **Thoughts:** my flexbox has mind of its own
 
