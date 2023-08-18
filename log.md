@@ -226,3 +226,13 @@
 **Thoughts:** still a lot to learn
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-02/)
+
+
+### Day 21: August 17, 2023 
+##### 
+
+**Today's Progress**:  homework 2 passed and for evaluation, still not checked, for refinement
+
+**Thoughts:** still a lot to learn
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-02/)
