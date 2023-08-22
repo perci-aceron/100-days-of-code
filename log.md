@@ -267,3 +267,13 @@
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-02/)
 
+
+
+### Day 25: August 21, 2023 
+##### 
+
+**Today's Progress**:  homework 2 approved and off to howmework 3
+
+**Thoughts:** still a lot to learn
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
