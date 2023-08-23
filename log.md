@@ -277,3 +277,13 @@
 **Thoughts:** still a lot to learn
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
+
+
+### Day 26: August 22, 2023 
+##### 
+
+**Today's Progress**: howmework 3 passed, for checking
+
+**Thoughts:** flexbox module
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
