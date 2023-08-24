@@ -287,3 +287,13 @@
 **Thoughts:** flexbox module
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
+
+
+### Day 27: August 23, 2023 
+##### 
+
+**Today's Progress**: howmework 3 passed, for checking, learning some vim
+
+**Thoughts:** vim is weird enviroment
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
