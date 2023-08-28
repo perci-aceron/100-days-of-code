@@ -328,3 +328,14 @@
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
 
+
+### Day 31: August 27, 2023 
+##### 
+
+**Today's Progress**: howmework 3 approved. Off to hw4
+
+**Thoughts:** 
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
+
+
