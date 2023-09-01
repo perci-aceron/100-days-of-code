@@ -367,3 +367,14 @@
 **Thoughts:** first svg icons usage
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-03/)
+
+
+### Day 35: August 31, 2023 
+##### 
+
+**Today's Progress**: homework accepted
+
+**Thoughts:** 
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-04/)
+
