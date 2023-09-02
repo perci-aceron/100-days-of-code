@@ -378,3 +378,13 @@
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-04/)
 
+
+### Day 36: September 1, 2023 
+##### 
+
+**Today's Progress**: homework accepted
+
+**Thoughts:** Ber months
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-04/)
+
