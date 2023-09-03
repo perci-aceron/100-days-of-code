@@ -388,3 +388,12 @@
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-04/)
 
+
+### Day 37: September 2, 2023 
+##### 
+
+**Today's Progress**: homework 5 started
+
+**Thoughts:** Ber months
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-05/)
