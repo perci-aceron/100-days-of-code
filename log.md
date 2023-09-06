@@ -418,3 +418,12 @@
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-05/)
 
+
+### Day 40: September 5, 2023 
+##### 
+
+**Today's Progress**: homework 5 started
+
+**Thoughts:** Ber months
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-05/)
