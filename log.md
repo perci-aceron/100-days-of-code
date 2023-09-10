@@ -457,3 +457,13 @@
 **Thoughts:** Ber months
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-05/)
+
+
+### Day 44: September 9, 2023 
+##### 
+
+**Today's Progress**: homework 5 accepted. off to hw6
+
+**Thoughts:** Ber months
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-06/)
