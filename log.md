@@ -520,4 +520,25 @@
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-06/)
 
 
+### Day 50: September 15, 2023 
+##### 
+
+**Today's Progress**: hw6 on progress
+
+**Thoughts:** svg is headache
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-06/)
+
+
+
+### Day 51: September 16, 2023 
+##### 
+
+**Today's Progress**: hw6 on progress
+
+**Thoughts:** svg is headache
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-06/)
+
+
 
