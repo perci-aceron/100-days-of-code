@@ -601,7 +601,7 @@
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
 
 
-### Day 57: September 23, 2023 
+### Day 58: September 23, 2023 
 ##### 
 
 **Today's Progress**: hw7 on progress
@@ -611,7 +611,7 @@
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
 
 
-### Day 57: September 24, 2023 
+### Day 59: September 24, 2023 
 ##### 
 
 **Today's Progress**: hw7 on progress
@@ -621,7 +621,7 @@
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
 
 
-### Day 57: September 25, 2023 
+### Day 60: September 25, 2023 
 ##### 
 
 **Today's Progress**: hw7 on progress
