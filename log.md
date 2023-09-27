@@ -629,3 +629,23 @@
 **Thoughts:** svg is headache
 
 **Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
+
+
+### Day 61: September 26, 2023 
+##### 
+
+**Today's Progress**: hw7 on progress
+
+**Thoughts:** svg is headache
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
+
+
+### Day 62: September 27, 2023 
+##### 
+
+**Today's Progress**: hw7 on progress
+
+**Thoughts:** svg is headache
+
+**Link to work:**  (https://perci-aceron.github.io/goit-markup-hw-07/)
